@@ -1,5 +1,4 @@
 #git_sourcetree
 ##hotfix
-#edit 1
-#edit 2
+#edit on GitHub
 This repository is test repository for sourcetree
